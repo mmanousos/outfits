@@ -1,7 +1,7 @@
 .DS_Store
 **/node_modules/
 **/*.env
-.next/
+**/.next/
 .build/
 layout.md
 **/*.log
